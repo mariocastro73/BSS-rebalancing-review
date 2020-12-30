@@ -1,0 +1,732 @@
+label	replace by
+ยก	
+ability	 
+abstract	
+abstract bike sharing system	BSS
+abstract public bike sharing system	BSS
+acceptance	 
+access	 
+accessibility	 
+account	 
+active travel	Travel
+activity	
+addition	
+adoption	
+advantage	
+agent	Algorithms
+air pollution	Pollution
+algorithm	Algorithms
+alternative	
+allocation	Relocation
+alternative mode	
+alternative transportation	
+americas	America
+amount	
+analysis	Algorithms
+app	
+application	
+approach	
+area	
+arrival	
+article	
+asia	Asia
+aspect	
+attention	
+attitude	
+attractiveness	
+august	
+australia	Oceania
+author	
+automatic rental station	Docked Bike-Sharing
+availability	Bike Availability
+availability prediction	Bike Availability
+available bike	Bike Availability
+awareness	
+balancing bicycle	Rebalancing
+balancing bike	Rebalancing
+barcelona	Europe
+barrier	
+basis	
+battery	
+bbss	BSS
+behavior	
+beijing	Asia
+benefit	Economy
+bicimad	Europe
+bicycle	
+bicycle lane	BSS
+bicycle sharing	BSS
+bicycle sharing program	BSS
+bicycle sharing scheme	BSS
+bicycle sharing system	BSS
+bicycle use	BSS
+big city	
+big data	Algorithms
+bike	BSS
+bike availability	Bike Availability
+bike demand	Trip Analysis
+bike demand prediction	Rebalancing
+bike distribution	Rebalancing
+bike lane	BSS
+bike path	BSS
+bike rental	BSS
+bike repositioning problem	Rebalancing
+bike rider	
+bike share	BSS
+bike share program	BSS
+bike share system	BSS
+bike sharing	BSS
+bike sharing operator	BSS
+bike sharing problem	BSS
+bike sharing program	BSS
+bike sharing scheme	BSS
+bike sharing service	BSS
+bike sharing station	BSS
+bike sharing system	BSS
+bike sharing trip	BSS
+bike sharing usage	BSS
+bike station	BSS
+bike supply	BSS
+bike theft	BSS
+bike trip	BSS
+bike usage	BSS
+bike use	BSS
+bike user	BSS
+bikeshare	BSS
+bikesharing	BSS
+bikesharing network	BSS
+bikesharing program	BSS
+bikesharing station	BSS
+bikesharing system	BSS
+bikesharing trip	BSS
+bikesharing user	BSS
+biking	BSS
+boom	
+brp	
+bss	BSS
+bss operator	BSS
+bsss	BSS
+bus	
+business	
+business model	
+campus	
+canada	America
+capacity	
+capital	
+capital bikeshare	BSS
+car	Vehicle-Sharing
+car sharing	Vehicle-Sharing
+carbon emission	Pollution
+carsharing	Vehicle-Sharing
+case	
+case study	
+casual user	
+certain time	
+challenge	
+change	
+characteristic	
+chicago	America
+china	
+chinese city	Asia
+choice	
+citi bike	BSS
+citi bike system	BSS
+citizen	
+city	
+city bike	BSS
+climate change	Trip Analysis
+closed queuing network	Algorithms
+clustering	Algorithms
+collection	
+combination	
+commercial bike	 
+common issue	 
+communication technology	 
+community	 
+community engagement	 
+commuter	 
+company	 
+comparison	 
+competition	 
+concept	 
+concern	 
+congestion	Traffic
+connection	
+construction	
+consumer	
+context	
+contrast	
+contribution	
+convenience	
+convenient service	
+cost	
+country	
+covid	COVID-19
+critical factor	
+crowdsourcing	Economy
+crucial factor	
+current bike	
+customer	
+cycling	
+cycling trip	
+cyclist	
+daily operation	Redistribution
+data	 Trip Analysis
+data analysis	Trip Analysis
+database	Trip Analysis
+data mining technique	Algorithms
+dataset	Trip Analysis
+day	Trip Analysis
+dbs	
+dbsp	
+dbss	
+decade	
+decision	
+deep learning approach	Algorithms
+delivery problem	Redistribution
+demaio	
+demand forecasting	Algorithms
+demand prediction	Algorithms
+departure	
+deployment	
+depot	
+demand	Trip Analysis
+destination	Trip Analysis
+determinant	
+development	
+difference	
+difficulty	
+distance	Trip Analysis
+distribution	Redistribution
+divvy system	
+dock	Docked Bike-Sharing
+docked bike	Docked Bike-Sharing
+docking station	Docked Bike-Sharing
+dockless bike	Dockless Bike-Sharing
+dockless bike sharing	Dockless Bike-Sharing
+dockless bike sharing program	Dockless Bike-Sharing
+dockless bike sharing system	Dockless Bike-Sharing
+dockless bikesharing	Dockless Bike-Sharing
+dockless system	Dockless Bike-Sharing
+dynamic	Dynamic Repositioning
+dynamic bike	Dynamic Repositioning
+dynamic demand	Dynamic Repositioning
+dynamic repositioning	Dynamic Repositioning
+e bike	
+economy	Economy
+effect	
+effectiveness	
+efficiency	
+efficient bike	Economy
+effort	
+electric bike	
+element	
+emergence	
+emission	Pollution
+empirical analysis	Algorithms
+empirical study	Algorithms
+empty station	Redistribution
+end	
+energy saving	Pollution
+engagement	
+enterprise	Economy
+environment	
+environment factor	
+environmental benefit	Economy
+environmental pollution	Pollution
+equity	
+estimation	
+europe	Europe
+european city	Europe
+evaluation	
+event	
+evidence	
+evolution	
+example	
+expansion	
+experience	
+experimental study	Algorithms
+fact	
+factor	
+failure	
+faulty bike	
+feature	
+fee	
+feeder mode	
+ffbs	Dockless Bike-Sharing
+ffbss	Dockless Bike-Sharing
+field	
+fierce competition	
+figure	
+final destination	
+finite capacity	
+fishman	
+fleet	
+fleet size	
+flexibility	
+flow	
+focus	
+form	
+framework	
+france	Europe
+free	
+free floating bike sharing	Dockless Bike-Sharing
+free floating bike sharing system	Dockless Bike-Sharing
+frequency	
+future	
+gap	
+general public	
+generation	
+global scale	
+globe	
+goal	
+government	
+gps	
+graph	Algorithms
+greece	Europe
+green alternative	Pollution
+green transportation mode	Pollution
+green travel	Pollution
+growth	
+hand	
+hangzhou	Asia
+health	Health
+healthy lifestyle	Health
+helmet	
+help	
+heuristic algorithm	Algorithms
+history	History Analysis
+holiday	Trip Analysis
+home	
+http	
+hundred	
+ict	
+idea	
+identification	
+imbalance	Rebalancing
+impact	Economy
+implementation	
+implication	
+importance	
+important role	
+improvement	
+increase	
+individual	
+indonesia	Asia
+industry	
+influence	
+influencing factor	
+influential factor	
+information	
+initiative	
+innovation	
+innovative bike	
+insight	
+integration	
+intention	
+interaction	
+interest	
+internet	
+intervention	
+inventory rebalancing	Rebalancing
+investigation	
+iot	
+issue	
+itrd database	
+journal	
+journey	
+june	
+key	
+key factor	
+keywords	
+kind	
+knowledge	
+lack	
+land use	
+landscape	
+lane	
+large city	
+large number	
+large scale	
+large scale bike	
+last decade	
+last mile	
+last mile problem	
+latest generation	
+leisure	
+lesson	
+level	
+life	
+link	
+literature	
+literature review	Literature Review
+location	Trip Analysis
+logistical challenge	
+london	Europe
+lot	
+low cost	
+low income communities	
+lyon	Europe
+machine	Algorithms
+machine learning	Algorithms
+madrid	Europe
+main problem	
+major challenge	
+major city	
+management	
+manager	
+market	
+markov chain	Algorithms
+mass transit system	
+massive bike	
+mean	
+measure	
+mechanism	
+medium	
+member	
+methodology	
+metro	Alternative Transports
+metro station	Alternative Transports
+mexico	America
+mile	
+minneapolis	America
+mobike	Asia
+mobility pattern	Trip Analysis
+mobility service	Trip Analysis
+mobility system	
+modal shift	
+mode	
+model	Algorithms
+modeling	Algorithms
+modeling bike	Algorithms
+modern bike	
+moment	
+momentum	
+montreal	America
+montreal bikesharing system	America
+motivation	
+movement	
+munich	Europe
+municipality	
+nanjing	Asia
+nation	
+need	
+netherlands	Europe
+network	
+new approach	
+new challenge	
+new form	
+new generation	
+new type	
+new york	America
+new york city	America
+non	
+north america	America
+north american city	America
+number	
+numerous city	
+nyc	America
+one	
+operator	
+operation	
+opportunity	
+optimization	Algorithms
+optimization model	Algorithms
+optimization problem	Algorithms
+order	
+organization	
+origin	
+overview	
+page	
+pandemic	COVID-19
+paper	
+paper analyze	
+paper study	
+paris	Europe
+parking difficulty	
+part	
+passenger	
+past	
+past decade	
+path	
+pattern Trip Analysis	
+pbs	BSS
+pbss	BSS
+peer	
+perception	
+performance	Algorithms
+performance analysis	Algorithms
+performance evaluation	Algorithms
+period	
+person	
+perspective	
+philadelphia	America
+physical activity	Health
+pick	
+pickup	
+place	
+plan	
+planned behavior	
+planning	Policy Maker
+platform	
+point	
+poland	Europe
+policy	Policy Maker
+policy maker	Policy Maker
+policymaker	Policy Maker
+popularity	
+population	
+possible strategy	
+potential	
+potential demand	
+practice	
+prediction	
+presence	
+present	
+previous study	
+pricing	
+private car	Transport Alternatives
+probability	
+problem	
+process	
+product service system	
+program	
+programme	
+project	
+promotion	
+provider	
+provision	
+public	
+public bicycle	BSS
+public bicycle system	BSS
+public bike sharing	BSS
+public bike sharing system	BSS
+public bike system	BSS
+public bikesharing	BSS
+public bikesharing system	BSS
+public health	Health
+public service	
+public transit	Transport Alternatives
+public transit system	Transport Alternatives
+public transport system	Transport Alternatives
+public transportation	Transport Alternatives
+public transportation system	Transport Alternatives
+quality	
+question	
+questionnaire	
+rail transit	Transport Alternatives
+recent year	
+random forest	Algorithms
+rapid development	
+rapid expansion	
+rapid growth	
+rapid increase	
+reason	
+rebalancing bike	Rebalancing
+rebalancing problem	Rebalancing
+recurrent neural network	Algorithms
+redistribution	Redistribution
+region	
+regular commuter	
+relation	
+relationship	
+relocation strategy	Rebalancing
+rental	
+rental station	
+report	
+requirement	
+research	
+research project	
+researcher	
+resident	
+resource	
+resource allocation	Redistribution
+return	
+review	
+ride	
+rider	
+ridership	
+rise	
+risk	
+role	
+routing	Redistribution
+safety	
+san francisco	America
+satisfaction	
+scale	Trip Analysis
+schedule	
+scheme	
+scooter	Transport Alternatives
+scooter sharing	Vehicle-Sharing
+season	Trip Analysis
+self	
+self service bike	
+series	
+serious problem	
+service	Service analysis
+service level	Service analysis
+service network design	Service analysis
+service provider	Service analysis
+service quality	Service analysis
+service system	Service analysis
+set	
+seville	Europe
+shaheen	
+shaheen et al	
+shanghai	Asia
+sharing	
+sharing bike	BSS
+sharing economy	Economy
+shenzhen	
+shift	
+short distance	
+short distance travel	Trip Analysis
+short distance trip	Trip Analysis
+short journey	Trip Analysis
+sidewalk	
+significant impact	
+significant increase	
+simulation	Algorithms
+simulation model	Algorithms
+singapore	Asia
+situation	
+size	
+smart	
+smart bike	BSS
+smart bike sharing system	BSS
+smart city	
+smart solution	
+society	
+socio economic characteristic	Economy
+solution	
+south korea	Asia
+space	
+spatial distribution	Algorithms
+spatiotemporal pattern	Trip Analysis
+stakeholder	
+start	
+state	
+static bike	Rebalancing
+static rebalancing	Rebalancing
+static rebalancing problem	Rebalancing
+station	Docked Bike-Sharing
+station level	Docked Bike-Sharing
+stochastic demand	Trip Analysis
+strategy	
+street	
+study	
+subject	
+subway	Transport Alternatives
+subway station	Transport Alternatives
+success	
+supply	
+survey	
+sustainability	Sustainability
+sustainable alternative	Sustainability
+sustainable development	Sustainability
+sustainable mobility	Sustainability
+sustainable mode	Sustainability
+sustainable transport mode	Sustainability
+sustainable transport system	Sustainability
+sustainable transportation	Sustainability
+sustainable urban mobility	Sustainability
+sustainable way	Sustainability
+switzerland	Europe
+system	
+system design	
+system operator	
+taipei	Asia
+taiwan	Asia
+tam	
+task	
+taxi	
+technical improvement	
+technique	
+technology	
+technology acceptance model	
+tennessee	America
+term	
+theory	
+thessaloniki	
+thing	
+thousand	
+tide	
+time	Trip Analysis
+today	
+tool	
+topic	
+tourist	
+tpb	
+traditional bike	Transport Alternatives
+transport	Transport Alternatives
+transit system	
+traffic	Traffic
+traffic congestion	Traffic
+traffic jam	Traffic
+transit	
+transport mode	Transport
+transportation research board	
+travel	Trip Analysis
+travel behavior	Trip Analysis
+travel characteristic	Trip Analysis
+travel demand	Trip Analysis
+travel mode	Trip Analysis
+travel pattern	Trip Analysis
+travel time	Trip Analysis
+traveler	Trip Analysis
+trend	
+trid	
+trip	Trip Analysis
+trip chain	
+trip data	Trip Analysis
+trip purpose	Trip Analysis
+tris	
+trust	
+type	
+understanding	
+understanding bike	
+united state	America
+united states	America
+university	
+unprecedented development	
+urban bike	
+urban bike sharing system	BSS
+urban city	
+urban environment	
+urban mobility	Transport Alternatives
+urban planning	
+urban resident	
+urban traffic	Traffic
+urban traffic congestion	Traffic
+urban transport	Transport Alternatives
+urban transportation	Transport Alternatives
+urban transportation system	Transport Alternatives
+usa	America
+usage	
+usage pattern	Trip Analysis
+use	
+user	Trip Analysis
+user behavior	Trip Analysis
+user demand	Trip Analysis
+user satisfaction	
+utilization	
+value	
+vehicle routing	Redistribution
+velib	Europe
+velo	Europe
+vehicle	
+vienna	Europe
+viewpoint	
+visualization	
+walking	
+washington	America
+way	
+way trip	
+weather	Trip Analysis
+weather condition	Trip Analysis
+week	Trip Analysis
+willingness	
+work	
+world	
+wuhan city	Asia
+year	 Trip Analysis
