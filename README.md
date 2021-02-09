@@ -1,4 +1,5 @@
-# BSS-rebalancing-review
+# Challenges and Opportunities in Dock-Based Bike-Sharing Rebalancing: A Systematic Review
+## by Carlos M. Vallez, Mario Castro and David Contreras
 Suplementary materials of the BSS-rebalancing-review paper:
 https://www.mdpi.com/2071-1050/13/4/1829
 
